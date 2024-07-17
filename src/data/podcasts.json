@@ -1,0 +1,62 @@
+[
+  {
+    "podcastName": "NerdCast",
+    "episode": "Episódio 754",
+    "videoId": "xYZ1234",
+    "categories": ["Tecnologia", "Cultura Pop"]
+  },
+  {
+    "podcastName": "Mamilos",
+    "episode": "Episódio 302",
+    "videoId": "aBC5678",
+    "categories": ["Sociedade", "Cultura"]
+  },
+  {
+    "podcastName": "Café da Manhã",
+    "episode": "Episódio 200",
+    "videoId": "hIJ9012",
+    "categories": ["Notícias", "Política"]
+  },
+  {
+    "podcastName": "Flow Podcast",
+    "episode": "Episódio 100",
+    "videoId": "dEF3456",
+    "categories": ["Entrevistas", "Diversos"]
+  },
+  {
+    "podcastName": "Podpah",
+    "episode": "Episódio 150",
+    "videoId": "gKL7890",
+    "categories": ["Entrevistas", "Cultura"]
+  },
+  {
+    "podcastName": "PrimoCast",
+    "episode": "Episódio 75",
+    "videoId": "jMN0123",
+    "categories": ["Finanças", "Investimentos"]
+  },
+  {
+    "podcastName": "Resumido",
+    "episode": "Episódio 50",
+    "videoId": "kOP4567",
+    "categories": ["Tecnologia", "Cultura Digital"]
+  },
+  {
+    "podcastName": "O Assunto",
+    "episode": "Episódio 180",
+    "videoId": "lQR8912",
+    "categories": ["Notícias", "Atualidades"]
+  },
+  {
+    "podcastName": "Um Milkshake Chamado Wanda",
+    "episode": "Episódio 220",
+    "videoId": "mST3456",
+    "categories": ["Cultura Pop", "Entretenimento"]
+  },
+  {
+    "podcastName": "FalaDev",
+    "episode": "Episódio 65",
+    "videoId": "nUV7890",
+    "categories": ["Tecnologia", "Desenvolvimento"]
+  }
+]
